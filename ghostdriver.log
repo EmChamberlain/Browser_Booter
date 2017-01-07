@@ -1,0 +1,23 @@
+[INFO  - 2015-08-23T05:59:11.641Z] GhostDriver - Main - running on port 53279
+[INFO  - 2015-08-23T05:59:12.456Z] Session [13e8c930-495c-11e5-a234-f1a28c96bc55] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-08-23T05:59:12.456Z] Session [13e8c930-495c-11e5-a234-f1a28c96bc55] - page.customHeaders:  - {}
+[INFO  - 2015-08-23T05:59:12.457Z] Session [13e8c930-495c-11e5-a234-f1a28c96bc55] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-08-23T05:59:12.457Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 13e8c930-495c-11e5-a234-f1a28c96bc55
+[ERROR - 2015-08-23T05:59:14.938Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1440309554935
+
+  :262 in error
+[ERROR - 2015-08-23T05:59:21.187Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1440309561131
+
+  :262 in error
+[ERROR - 2015-08-23T05:59:26.656Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1440309566612
+
+  :262 in error
+[ERROR - 2015-08-23T05:59:32.719Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1440309572674
+
+  :262 in error
+[ERROR - 2015-08-23T05:59:37.657Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1440309577609
+
+  :262 in error
+[ERROR - 2015-08-23T05:59:42.469Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1440309582424
+
+  :262 in error
